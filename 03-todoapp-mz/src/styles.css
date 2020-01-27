@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+span.active {
+    background-color: #FFF;
+    color: #4a148c;
+    padding: 1px 15px;
+    border-radius: 5px;
+}
